@@ -71,6 +71,7 @@ body, html, #root {
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
+  text-transform: uppercase;
 }
 
 span {
